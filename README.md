@@ -8,7 +8,17 @@ Some deadly strain of bacteriophage T5 makes a carnage for <i>E. coli</i>. For t
 
 ## My working notes on this project
 
->I will add link a bit later...<
+Working notes link: https://exciting-dart-fb1.notion.site/Notes-on-bash-script-6bb011b618294f00a1c775dfe5c0250f
+
+## Tools used in bash script and their version
+
+* FastQC v0.11.9 
+* Trimmomatic-0.39
+* bwa v.0.7.17-r1188
+* samtools 1.13
+* bcftools v.1.13
+* Ubuntu 22.04.1 LTS (GNU/Linux 5.10.16.3-microsoft-standard-WSL2 x86_64)
+
 
 ## My contacts
 
