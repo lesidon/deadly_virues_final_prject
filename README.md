@@ -1,2 +1,4 @@
-# deadly_virues_final_prject
-This repository contains pipeline for variant calling. The goal was to find SNP which makes some strain of phage T5 very deadly for E. coli
+# Final project for "Workspace & Workflow management in biology"
+
+Some deadly strain of bacteriophage T5 makes a carnage for <i>E. coli</i>. For this imaginary situation here one could find a variant calling pipeline for the analysis of this strain. The results are discussed at the end of this project description. 
+
